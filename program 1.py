@@ -1,0 +1,13 @@
+a=2
+b=3
+c=6
+d=7.7
+e=8
+f=9
+g=8.9
+h=7.9
+i=1
+j=9.8
+print("addition = ",a+b)
+print("multiplication = ",a*b)
+print("division = ",a/g)
